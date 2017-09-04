@@ -1,5 +1,5 @@
 # Lab_01 - HTML/CSS Refresher
-Name: _______________________________________
+Name: Kaelin Briggs
 
 ## DUE: 03 Sep 2017
 
